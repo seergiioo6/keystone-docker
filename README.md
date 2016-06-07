@@ -23,7 +23,7 @@ Scaleable docker infrastructure for keystone.js. Uses ubuntu 14.04.3 base image 
 
 ### To Run:
 * cd keystone-docker
-* docker-composer up or ./dev_up.sh
+* docker-compose up or ./dev_up.sh
 
 ### To Debug:
 * Use build.sh, start.sh, ect for individual docker modules
